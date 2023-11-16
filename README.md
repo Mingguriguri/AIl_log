@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=white&height=300&section=header&text=AIl_log%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=randome&height=300&section=header&text=AIl_log&fontSize=90)
 # AIl_log v0.0
 
 - IT임팩트캠퍼스 공모전  
