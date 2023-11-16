@@ -5,7 +5,8 @@
 - 가천대학교 의공학과 iNES 연구실 내 AI팀 (팀명: 달록)  
 - 기획기간: 23.10.1. ~ 23.10.30   
 - 개발기간: 23.11.15 ~   
-
+- 참고 깃허브 readme: https://github.com/Voluntain-SKKU/Voluntain-2nd
+  
 # 팀 소개
 |곽은지|고중범|김민정|박재윤|
 |------|---|---|---|
@@ -32,7 +33,8 @@ $ git clone https://github.com/Mingguriguri/AIl_log.git
 
 # Stacks
 ## Environment
-- Visual studio code
+<img src="https://img.shields.io/badge/visualstudiocode?style=flat&logo=visualstudiocode&logoColor=#007ACC"/>
+
 - git
 - github
 
