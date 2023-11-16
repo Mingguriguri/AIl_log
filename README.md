@@ -1,4 +1,13 @@
-# AIl_log
+# AIl_log v0.0
 IT임팩트캠퍼스 공모전
+가천대학교 의공학과 iNES 연구실 내 AI팀 (팀명: 달록)
+기획기간: 23.10.1. ~ 23.10.30
+개발기간: 23.11.15 ~ 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri](https://github.com/anuraghazra/github-readme-stats)
+# 시작가이드
+---
+
+## Installation
+```
+$ git clone 
