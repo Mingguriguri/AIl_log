@@ -6,7 +6,11 @@
 - 기획기간: 23.10.1. ~ 23.10.30   
 - 개발기간: 23.11.15 ~   
 - 참고 깃허브 readme: https://github.com/Voluntain-SKKU/Voluntain-2nd
-  
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true">
+
 # 팀 소개
 |곽은지|고중범|김민정|박재윤|
 |------|---|---|---|
@@ -34,20 +38,30 @@ $ git clone https://github.com/Mingguriguri/AIl_log.git
 # Stacks
 ## Environment
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-- git
-- github
 
 ## Config
+npm
 
 ## Development
-python  kotlin  django  
+<div align="center">
+	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+	<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</div>
+
 
 ## Communication
-googlemeet  notion  google docs
+<div align="center">
+	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white" />
+	<img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+</div>
+
 
 ---
 # 화면구성
